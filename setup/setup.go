@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/govwa/user/session"
-	"github.com/govwa/util"
-	"github.com/govwa/util/config"
-	"github.com/govwa/util/database"
-	"github.com/govwa/util/middleware"
+	"github.com/aspm-test-qa/VulnerableGoRepo4GH/user/session"
+	"github.com/aspm-test-qa/VulnerableGoRepo4GH/util"
+	"github.com/aspm-test-qa/VulnerableGoRepo4GH/util/config"
+	"github.com/aspm-test-qa/VulnerableGoRepo4GH/util/database"
+	"github.com/aspm-test-qa/VulnerableGoRepo4GH/util/middleware"
 
 	"github.com/julienschmidt/httprouter"
 )

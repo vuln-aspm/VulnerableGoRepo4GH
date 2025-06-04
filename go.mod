@@ -1,4 +1,4 @@
-module github.com/govwa
+module github.com/aspm-test-qa/VulnerableGoRepo4GH
 
 go 1.15
 

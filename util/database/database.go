@@ -3,8 +3,8 @@ package database
 import (
 	"database/sql"
 	"fmt"
+	"github.com/aspm-test-qa/VulnerableGoRepo4GH/util/config"
 	_ "github.com/go-sql-driver/mysql"
-	"github.com/govwa/util/config"
 	"log"
 )
 

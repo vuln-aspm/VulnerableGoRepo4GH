@@ -3,7 +3,7 @@ package setup
 import (
 	"database/sql"
 
-	"github.com/govwa/util/database"
+	"github.com/aspm-test-qa/VulnerableGoRepo4GH/util/database"
 )
 
 const (

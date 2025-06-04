@@ -1,4 +1,6 @@
-config
+.idea
+
+./config
 *~
 *.exe
 *.dll
@@ -8,3 +10,4 @@ config
 *.out
 
 config/config.json
+

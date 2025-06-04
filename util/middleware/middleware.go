@@ -7,7 +7,7 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/govwa/user/session"
+	"github.com/aspm-test-qa/VulnerableGoRepo4GH/user/session"
 	"github.com/julienschmidt/httprouter"
 )
 

@@ -6,16 +6,16 @@ import (
 
 	"github.com/julienschmidt/httprouter"
 
-	"github.com/govwa/setting"
-	"github.com/govwa/setup"
-	"github.com/govwa/user"
-	"github.com/govwa/util"
-	"github.com/govwa/util/config"
-	"github.com/govwa/util/middleware"
-	"github.com/govwa/vulnerability/csa"
-	"github.com/govwa/vulnerability/idor"
-	"github.com/govwa/vulnerability/sqli"
-	"github.com/govwa/vulnerability/xss"
+	"github.com/aspm-test-qa/VulnerableGoRepo4GH/setting"
+	"github.com/aspm-test-qa/VulnerableGoRepo4GH/setup"
+	"github.com/aspm-test-qa/VulnerableGoRepo4GH/user"
+	"github.com/aspm-test-qa/VulnerableGoRepo4GH/util"
+	"github.com/aspm-test-qa/VulnerableGoRepo4GH/util/config"
+	"github.com/aspm-test-qa/VulnerableGoRepo4GH/util/middleware"
+	"github.com/aspm-test-qa/VulnerableGoRepo4GH/vulnerability/csa"
+	"github.com/aspm-test-qa/VulnerableGoRepo4GH/vulnerability/idor"
+	"github.com/aspm-test-qa/VulnerableGoRepo4GH/vulnerability/sqli"
+	"github.com/aspm-test-qa/VulnerableGoRepo4GH/vulnerability/xss"
 )
 
 const (
