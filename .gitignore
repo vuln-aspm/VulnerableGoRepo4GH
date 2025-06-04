@@ -1,6 +1,5 @@
 .idea
 
-./config
 *~
 *.exe
 *.dll
@@ -9,5 +8,4 @@
 *.test
 *.out
 
-config/config.json
 
