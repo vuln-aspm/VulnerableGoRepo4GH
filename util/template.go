@@ -32,7 +32,7 @@ func RenderAsJson(w http.ResponseWriter, data ...interface{}) {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
 		return
 	}
-	w.Write(b)
+
 }
 
 func UnSafeRender(w http.ResponseWriter, name string, data ...interface{}) {
